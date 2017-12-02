@@ -1,0 +1,34 @@
+
+1. Skapade nytt repository på Github.
+   Epost: patrik.hulthen@live.com
+   Användare: PatrikH
+
+2. Skapade följande katalog.
+   /c/Patrik/GIT/Kurs/repoTest/test1Repo
+
+   Gjorde sedan följande kommandon enligt beskrivning på GitHub:
+
+   echo "# Test1Repo" >> README.md
+   git init
+   git add README.md
+   git commit -m "first commit"
+   git remote add origin https://github.com/PatrikH1/Test1Repo.git
+   git push -u origin master1
+
+3. Skapade den nya filen Beskrivning.txt
+
+4. git add Beskrining.txt
+
+5. git status 
+   Resultat: Filen är klar för commit
+   Uppdaterar och sparar filen.
+
+6. git status
+   Resultat: Filen är modifierad och behöver genomgå add
+
+7. git commit -m "File Beskrivning.txt added."
+
+
+
+
+   
