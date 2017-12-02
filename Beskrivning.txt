@@ -34,6 +34,8 @@
 9. git commit -a -m "More updates."
    Resultat: Både add och commit.
 
+10. Fortsätter med uppdateringarna i branch1.
+
 
 
 
