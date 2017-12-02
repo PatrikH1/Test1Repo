@@ -36,7 +36,10 @@
 
 10. Fortsätter med uppdateringarna i branch1.
 
+10 a. Punkten 10 a
+
 10 b. Point 10 b added.
+
 
 
 
