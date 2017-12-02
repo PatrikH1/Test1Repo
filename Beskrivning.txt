@@ -31,6 +31,9 @@
 8. git push origin master
    Resultat: Allt läggs upp på remote (https://github.com/PatrikH1/Test1Repo.git)
 
+9. git commit -a -m "More updates."
+   Resultat: Både add och commit.
+
 
 
 
