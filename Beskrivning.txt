@@ -44,6 +44,16 @@
 
 12. Point 12 added.
 
+13 Ny branch skapad:
+   git checkout -b branch2
+
+14. Den nya branchen har pushats upp till remote:
+    git push -u origin branch2
+
+15. Denna uppdatering pushas nu upp:
+    git push 
+   
+
 
 
 
